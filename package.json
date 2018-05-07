@@ -1,0 +1,24 @@
+{
+  "name": "ui-test-by-puppeteer",
+  "version": "1.0.0",
+  "description": "UI Test By Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wongjohn/ui-test-by-puppeteer.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "UI",
+    "Test"
+  ],
+  "author": "WongJohn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wongjohn/ui-test-by-puppeteer/issues"
+  },
+  "homepage": "https://github.com/wongjohn/ui-test-by-puppeteer#readme"
+}
