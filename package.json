@@ -4,7 +4,8 @@
   "description": "UI Test By Puppeteer",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "start": "npm run test",
+    "test": "node baidu.test.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/wongjohn/ui-test-by-puppeteer/issues"
   },
-  "homepage": "https://github.com/wongjohn/ui-test-by-puppeteer#readme"
+  "homepage": "https://github.com/wongjohn/ui-test-by-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
 }
